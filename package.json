@@ -1,0 +1,27 @@
+{
+  "name": "ritam-stalker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RitamC6/Ritam-Stalker.git"
+  },
+  "author": "Ritam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RitamC6/Ritam-Stalker/issues"
+  },
+  "homepage": "https://github.com/RitamC6/Ritam-Stalker#readme",
+  "dependencies": {
+    "active-win": "^6.2.0",
+    "discord.js": "^12.5.0",
+    "prettysize": "^2.0.0",
+    "screenshot-desktop": "^1.12.3",
+    "stack": "^0.1.0",
+    "systeminformation": "^4.30.1"
+  }
+}
