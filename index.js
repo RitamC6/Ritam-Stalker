@@ -72,4 +72,4 @@ screenshot.listDisplays().then((displays) => {
  
 })
  
-client.login("NzgwNDgxMzk4ODIxNzQ4NzY3.X7vt8g.aAU9e9RHWtW6QbOvrJKqjn1oA8I");
+client.login(config.token);
